@@ -34,8 +34,7 @@ public class Dimend {
 				st=st-2;
 			}
 			System.out.println();
-
-			//System.out.println();
+			
 		}
 	}
 }
